@@ -5,8 +5,9 @@
 }
 
 body{
-    background-color: hsl(217, 54%, 11%);
+    background-color:  hsl(217, 54%, 11%);
     line-height: 1.3;
+    font-family:  'Red Hat Display', sans-serif;
 }
 
 .container{
